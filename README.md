@@ -17,5 +17,10 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/albertfurnica/leetcode-csharp/tree/master/0238-product-of-array-except-self) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/albertfurnica/leetcode-csharp/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/albertfurnica/leetcode-csharp/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
