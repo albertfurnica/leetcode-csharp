@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/albertfurnica/leetcode-csharp/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/albertfurnica/leetcode-csharp/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/albertfurnica/leetcode-csharp/tree/master/0089-gray-code) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/albertfurnica/leetcode-csharp/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/albertfurnica/leetcode-csharp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
